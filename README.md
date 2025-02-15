@@ -61,9 +61,6 @@ COMMANDS = [
 ## Handling Rate Limits
 The script automatically detects rate limits and waits for the required duration before retrying. This helps avoid hitting Discord's API limits.
 
-## License
-MIT License
-
 ---
 
 # Discord Command Auto-Sender (日本語版)
@@ -129,6 +126,4 @@ COMMANDS = [
 ## レートリミット対策
 スクリプトはAPIのレートリミットを自動検出し、指定時間待機してから再試行します。
 
-## ライセンス
-MITライセンス
 
